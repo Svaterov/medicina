@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "last_name": "тайцель",
+    "first_name": "данил",
+    "middle_name": null,
+    "birth_date": "21.06.2006",
+    "gender": "Мужской",
+    "address": "",
+    "phone": "",
+    "email": null,
+    "insurance_number": "",
+    "registration_date": "19.12.2025 09:44",
+    "medical_history": "",
+    "diagnosis": "",
+    "attending_doctor": ""
+  }
+]
